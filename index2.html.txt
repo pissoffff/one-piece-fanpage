@@ -1,0 +1,50 @@
+<html>
+<head>
+<title>One piece</title>
+
+<meta name = "author" content= "murshalina">
+<meta name = "keywords" content= "straw hats,one piece,luffy,pirates">
+<meta name = "description" content= "Lets explore the greatest of all anime one piece's fan page">
+
+<style>
+h3 {color: skyblue;}
+body {font-family:Palatino;}
+
+</style>
+</head>
+<body>
+<center><h2>One Piece Fanpage</h2></center>
+<hr>
+<h3><u>What is one piece?</u></h3>
+<p><b>One piece</b> is an ongoing anime series like by many around the world.<b>Eiichiro Oda </b> <i>had created this story.</i></p>
+
+<p>Monkey D. Luffy—a young man made of rubber after unintentionally eating a Devil Fruit—who sets off on a journey from the East Blue Sea to find the deceased King of the Pirates Gol D. Roger's ultimate treasure known as the "One Piece", and take over his prior title.</p>
+
+<blockquote><p><a href = "https://en.wikipedia.org/wiki/One_Piece">click here </a> to open one piece wikipedia</p></blockquote>
+
+<img alt="" class="hCL kVc L4E MIw" fetchpriority="auto" loading="auto" src="https://i.pinimg.com/564x/d4/04/7d/d4047d6be5d260c5fc3ff55ca27c7d6a.jpg" style = "width:250px; height:250px;">
+<p><b>Main characters</b><p>
+
+<o1>
+
+<li>Monkey.D.Luffy</li>
+<li>Rorona Zoro</li>
+<li>Ussop</li>
+<li>Nami</li>
+<li>Vinsmoke Sanji</li>
+<li>Tony Tony Chopper</li>
+<li>Nico Robin</li>
+<li>Cyborg Franky</li>
+<li>Soul King Brook</li>
+<li>Jimbei</li>
+
+</o1>
+<hr>
+<p><h3><b>Opening one</b></h3><p>
+<p>Watch the first opening of one piece :</p>
+<blockquote><iframe width="744" height="419" src="https://www.youtube.com/embed/gcjdXMfYIe4" title="One Piece - Opening 1 【We Are!】 4K 60FPS Creditless | CC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></blockquote>
+
+
+</body>
+</html>
+
